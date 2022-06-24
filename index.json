@@ -416,11 +416,6 @@ let livObj = { "aircraft": [
   "livery": "98.5",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Lufthansa%20A319-111_230250_3140/texture_98.5.jpg"
   },
- {
-  "name": "Boeing 787-9 (GeoFS Alexander) by Pilot45",
-  "livery": "200",
-  "mptx": "https://raw.githubusercontent.com/Computer55x/GeoFS-Livery-Overhaul/main/texture_200.PNG"
-  },
 {
   "name": "Boeing 787-10 (Vietnam Airlines) ",
   "livery": "41",
@@ -500,6 +495,11 @@ let livObj = { "aircraft": [
   "name": "Boeing 787-9 (EL AL) ",
   "livery": "50",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575/texture_50.jpg"
+  },
+{
+  "name": "Boeing 787-9 (GeoFS Alexander) by Pilot45",
+  "livery": "200",
+  "mptx": "https://raw.githubusercontent.com/Computer55x/GeoFS-Livery-Overhaul/main/texture_200.PNG"
   },
 {
   "name": "Boeing 787-9 (Qantas) ",
